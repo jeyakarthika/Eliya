@@ -1,5 +1,5 @@
-BareBones
-=========
+Eliya
+=====
 
 A very minimal starter template for my Front End Projects.
 
